@@ -1,0 +1,20 @@
+{
+  "name": "gulp-html-attribute-generator",
+  "version": "1.0.0",
+  "description": "A rules based attribute generator for html tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Netatwork-de/gulp-html-attribute-generator.git"
+  },
+  "author": "Net at Work GmbH",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "parse5": "^2.2.3",
+    "through2": "^2.0.1"
+  }
+}
